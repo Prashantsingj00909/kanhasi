@@ -19,4 +19,3 @@ EXPOSE 8080
 CMD ["/start.sh"]
 
 
-start.sh
